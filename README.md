@@ -18,7 +18,7 @@ Modelling the curve pattern for simulation
 
 Simulation in the OMRON control programme
 
-![simulation](https://github.com/iostwestcoast/omron-head/assets/114690482/24c27da1-02c2-406b-89c2-e60f13c1e3f1)
+![simulation](https://github.com/iostwestcoast/omron-head/assets/114690482/ad3cb766-a176-4f08-b1b5-2a98f38ec17e)
 
 Mounting of fastening and working tools 
 
@@ -26,11 +26,7 @@ Mounting of fastening and working tools
 
 Milling process 
 
-
-
 https://github.com/iostwestcoast/omron-head/assets/114690482/81bf4e60-b28b-4d02-a691-77d4a16021e2
-
-
 
 Milling results of two models
 
