@@ -20,3 +20,17 @@ Simulation in the OMRON control programme
 
 ![simulation](https://github.com/iostwestcoast/omron-head/assets/114690482/24c27da1-02c2-406b-89c2-e60f13c1e3f1)
 
+Mounting of fastening and working tools 
+
+![photo_2023-12-27_19-48-09](https://github.com/iostwestcoast/omron-head/assets/114690482/5cee9e0f-0377-463f-907f-bfaf02960490)
+
+Milling process 
+
+
+
+Milling results of two models
+
+![photo_2023-12-27_19-15-32 (2)](https://github.com/iostwestcoast/omron-head/assets/114690482/6998ba1e-33e8-42ac-bc5f-55156a90841a)
+
+![photo_2023-12-27_19-15-32](https://github.com/iostwestcoast/omron-head/assets/114690482/a5fc458e-bc58-4f19-843b-6df6a5977c8c)
+
