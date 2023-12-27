@@ -28,6 +28,10 @@ Milling process
 
 
 
+https://github.com/iostwestcoast/omron-head/assets/114690482/81bf4e60-b28b-4d02-a691-77d4a16021e2
+
+
+
 Milling results of two models
 
 ![photo_2023-12-27_19-15-32 (2)](https://github.com/iostwestcoast/omron-head/assets/114690482/6998ba1e-33e8-42ac-bc5f-55156a90841a)
